@@ -29,37 +29,25 @@ Inventory-Management-System/
 ├── README.md
 ├── inventory.csv (created after saving)
 
-yaml
-Copy code
-
----
 
 ## 🚀 How to Run
 1. Clone the repository:
-```bash
 git clone https://github.com/username/Inventory-Management-System.git
-Navigate to the src folder:
 
-bash
-Copy code
+2. Navigate to the src folder:
 cd Inventory-Management-System/src
-Compile all Java files:
 
-bash
-Copy code
+3. Compile all Java files:
 javac *.java
-Run the application:
 
-bash
-Copy code
+4. Run the application:
 java Main
+
 💾 CSV Usage
 Save Inventory: Click the Save CSV button to save all products to inventory.csv.
-
 Load Inventory: Click the Load CSV button to load products from inventory.csv.
-
 This allows you to persist inventory data between sessions
-
 
 👩‍💻 Author
 Mayuri Maurya | B. Sc.IT (2nd Year)
+
