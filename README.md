@@ -58,10 +58,8 @@ Save Inventory: Click the Save CSV button to save all products to inventory.csv.
 
 Load Inventory: Click the Load CSV button to load products from inventory.csv.
 
-This allows you to persist inventory data between sessions.
+This allows you to persist inventory data between sessions
 
-🖼 Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
+
 👩‍💻 Author
 Mayuri Maurya | B. Sc.IT (2nd Year)
